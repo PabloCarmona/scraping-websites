@@ -18,6 +18,6 @@ axios
         iso3: $(element).children("span").text(),
       });
     });
-    fs.writeFileSync("./countries.json", JSON.stringify(countries));
+    fs.writeFileSync("./countries.json", JSON.stringify(countries, null, 2));
     console.log(countries);
   })
