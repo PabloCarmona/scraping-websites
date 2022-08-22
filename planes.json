@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Airbus A220",
+    "img": "https://aerocorner.com/wp-content/uploads/2019/08/A220-300-airBaltic-730x508.jpg"
+  },
+  {
+    "name": "Comac C919",
+    "img": "https://aerocorner.com/wp-content/uploads/2019/12/Comac-C919-730x484.jpg"
+  },
+  {
+    "name": "Boeing 777X",
+    "img": "https://aerocorner.com/wp-content/uploads/2019/12/Boeing-777X-730x347.jpg"
+  },
+  {
+    "name": "Airbus A350-1000",
+    "img": "https://aerocorner.com/wp-content/uploads/2009/01/Airbus-A350-1000-XWB-730x487.jpg"
+  },
+  {
+    "name": "Boom Overture",
+    "img": "https://aerocorner.com/wp-content/uploads/2019/12/Boom-Overture-cruising-at-30K-feet-730x730.jpg"
+  },
+  {
+    "name": "Airbus A330neo",
+    "img": "https://aerocorner.com/wp-content/uploads/2019/12/Airbus-A330neo-first-take-off-730x486.jpg"
+  },
+  {
+    "name": "Airbus A321neo",
+    "img": "https://aerocorner.com/wp-content/uploads/2019/12/Airbus-A321neo-730x730.jpg"
+  },
+  {
+    "name": "Airbus A321XLR",
+    "img": "https://aerocorner.com/wp-content/uploads/2019/12/Airbus-A321XLR-e1576710634364-730x498.jpg"
+  },
+  {
+    "name": "Boeing 737 Max 8",
+    "img": "https://aerocorner.com/wp-content/uploads/2019/12/Boeing-737-Max-8-Air-Canada-730x411.jpg"
+  },
+  {
+    "name": "Irkut MC-21",
+    "img": "https://aerocorner.com/wp-content/uploads/2019/12/Irkut-MS-21-730x487.jpg"
+  }
+]
